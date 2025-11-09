@@ -13,6 +13,6 @@ Team member :Anusha S
 
 Team member :Anushya S
 
-Servicenow Instance: 
+Servicenow Instance: https://dev317824.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D3161364a83c53210d96b5100feaad3a4
 
 Demo Vedio Link: https://drive.google.com/file/d/196aTsjS48FHWhL2Oyh6L4PZ_PIC50RwQ/view?usp=drivesdk
